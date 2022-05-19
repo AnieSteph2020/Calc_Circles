@@ -1,0 +1,11 @@
+C:\Users\schulzs\source\repos\Balls!\Balls!\bin\Debug\Balls!.exe.config
+C:\Users\schulzs\source\repos\Balls!\Balls!\bin\Debug\Balls!.exe
+C:\Users\schulzs\source\repos\Balls!\Balls!\bin\Debug\Balls!.pdb
+C:\Users\schulzs\source\repos\Balls!\Balls!\obj\Debug\Balls!.csproj.AssemblyReference.cache
+C:\Users\schulzs\source\repos\Balls!\Balls!\obj\Debug\Balls!.csproj.SuggestedBindingRedirects.cache
+C:\Users\schulzs\source\repos\Balls!\Balls!\obj\Debug\Balls_.Form1.resources
+C:\Users\schulzs\source\repos\Balls!\Balls!\obj\Debug\Balls_.Properties.Resources.resources
+C:\Users\schulzs\source\repos\Balls!\Balls!\obj\Debug\Balls!.csproj.GenerateResource.cache
+C:\Users\schulzs\source\repos\Balls!\Balls!\obj\Debug\Balls!.csproj.CoreCompileInputs.cache
+C:\Users\schulzs\source\repos\Balls!\Balls!\obj\Debug\Balls!.exe
+C:\Users\schulzs\source\repos\Balls!\Balls!\obj\Debug\Balls!.pdb
